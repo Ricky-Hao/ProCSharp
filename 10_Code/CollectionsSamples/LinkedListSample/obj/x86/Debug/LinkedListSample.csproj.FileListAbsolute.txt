@@ -10,3 +10,4 @@ C:\Users\Christian\SkyDrive\Pro C# 5.0\finalcode\CollectionsSamples\LinkedListSa
 C:\Users\Christian\SkyDrive\Pro C# 5.0\finalcode\CollectionsSamples\LinkedListSample\obj\x86\Debug\LinkedListSample.csprojResolveAssemblyReference.cache
 C:\Users\Christian\SkyDrive\Pro C# 5.0\finalcode\CollectionsSamples\LinkedListSample\obj\x86\Debug\LinkedListSample.exe
 C:\Users\Christian\SkyDrive\Pro C# 5.0\finalcode\CollectionsSamples\LinkedListSample\obj\x86\Debug\LinkedListSample.pdb
+C:\Users\a9596\Source\Repos\ProCSharp\10_Code\CollectionsSamples\LinkedListSample\bin\Debug\LinkedListSample.exe.config

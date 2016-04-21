@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System;
 
 namespace Wrox.ProCSharp.Collections
 {
@@ -22,6 +23,8 @@ namespace Wrox.ProCSharp.Collections
             var racers2 = new List<Racer>(new Racer[] {
                new Racer(12, "Jochen", "Rindt", "Austria", 6),
                new Racer(22, "Ayrton", "Senna", "Brazil", 41) });
+
+            racers.Sort((r1, r2) => r2.Wins.CompareTo(r1.Wins));
 
 
 
