@@ -12,3 +12,7 @@ C:\Users\Christian\SkyDrive\Pro C# 5.0\finalcode\CollectionsSamples\ListSamples\
 C:\Users\Christian\SkyDrive\Pro C# 5.0\finalcode\CollectionsSamples\ListSamples\obj\x86\Debug\ListSamples.csprojResolveAssemblyReference.cache
 C:\Users\a9596\OneDrive\C#\Wrox\10_Code\CollectionsSamples\ListSamples\bin\Debug\ListSamples.exe.config
 C:\Users\a9596\Source\Repos\ProCSharp\10_Code\CollectionsSamples\ListSamples\bin\Debug\ListSamples.exe.config
+C:\Users\a9596\Source\Repos\ProCSharp\10_Code\CollectionsSamples\ListSamples\bin\Debug\ListSamples.exe
+C:\Users\a9596\Source\Repos\ProCSharp\10_Code\CollectionsSamples\ListSamples\bin\Debug\ListSamples.pdb
+C:\Users\a9596\Source\Repos\ProCSharp\10_Code\CollectionsSamples\ListSamples\obj\x86\Debug\ListSamples.exe
+C:\Users\a9596\Source\Repos\ProCSharp\10_Code\CollectionsSamples\ListSamples\obj\x86\Debug\ListSamples.pdb

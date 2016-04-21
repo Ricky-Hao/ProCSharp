@@ -1,4 +1,4 @@
-﻿
+﻿using System;
 namespace Wrox.ProCSharp.Collections
 {
   class Program
@@ -16,6 +16,7 @@ namespace Wrox.ProCSharp.Collections
       pdm.AddDocument(new Document("eight", "Sample", 1));
 
       pdm.DisplayAllNodes();
+            Console.ReadKey();
 
     }
   }

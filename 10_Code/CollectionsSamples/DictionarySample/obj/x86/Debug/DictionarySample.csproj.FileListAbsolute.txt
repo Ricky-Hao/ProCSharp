@@ -8,3 +8,13 @@ C:\Users\Christian\SkyDrive\Pro C# 5.0\finalcode\CollectionsSamples\DictionarySa
 C:\Users\Christian\SkyDrive\Pro C# 5.0\finalcode\CollectionsSamples\DictionarySample\bin\Debug\DictionarySample.pdb
 C:\Users\Christian\SkyDrive\Pro C# 5.0\finalcode\CollectionsSamples\DictionarySample\obj\x86\Debug\DictionarySample.exe
 C:\Users\Christian\SkyDrive\Pro C# 5.0\finalcode\CollectionsSamples\DictionarySample\obj\x86\Debug\DictionarySample.pdb
+C:\Users\a9596\Source\Repos\ProCSharp\10_Code\CollectionsSamples\DictionarySample\bin\Debug\DictionarySample.exe.config
+C:\Users\a9596\Source\Repos\ProCSharp\10_Code\CollectionsSamples\DictionarySample\bin\Debug\DictionarySample.exe
+C:\Users\a9596\Source\Repos\ProCSharp\10_Code\CollectionsSamples\DictionarySample\bin\Debug\DictionarySample.pdb
+C:\Users\a9596\Source\Repos\ProCSharp\10_Code\CollectionsSamples\DictionarySample\obj\x86\Debug\DictionarySample.csprojResolveAssemblyReference.cache
+C:\Users\a9596\Source\Repos\ProCSharp\10_Code\CollectionsSamples\DictionarySample\obj\x86\Debug\DictionarySample.rewritten
+C:\Users\a9596\Source\Repos\ProCSharp\10_Code\CollectionsSamples\DictionarySample\obj\x86\Debug\DictionarySample.exe
+C:\Users\a9596\Source\Repos\ProCSharp\10_Code\CollectionsSamples\DictionarySample\obj\x86\Debug\DictionarySample.pdb
+C:\Users\a9596\Source\Repos\ProCSharp\10_Code\CollectionsSamples\DictionarySample\obj\x86\Debug\Decl\DictionarySample.exe
+C:\Users\a9596\Source\Repos\ProCSharp\10_Code\CollectionsSamples\DictionarySample\obj\x86\Debug\Decl\DictionarySample.pdb
+C:\Users\a9596\Source\Repos\ProCSharp\10_Code\CollectionsSamples\DictionarySample\obj\x86\Debug\CodeContractAnalysisRun.log
