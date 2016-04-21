@@ -1,0 +1,1 @@
+C:\Users\a9596\OneDrive\C#\Wrox\10_Code\CollectionsSamples\ImmutableCollectionsSample\bin\Debug\ImmutableCollectionsSample.exe.config

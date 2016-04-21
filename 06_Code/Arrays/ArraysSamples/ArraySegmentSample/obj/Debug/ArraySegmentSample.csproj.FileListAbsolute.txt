@@ -1,0 +1,6 @@
+C:\Users\a9596\OneDrive\C#\Wrox\06_Code\Arrays\ArraysSamples\ArraySegmentSample\bin\Debug\ArraySegmentSample.exe.config
+C:\Users\a9596\OneDrive\C#\Wrox\06_Code\Arrays\ArraysSamples\ArraySegmentSample\bin\Debug\ArraySegmentSample.exe
+C:\Users\a9596\OneDrive\C#\Wrox\06_Code\Arrays\ArraysSamples\ArraySegmentSample\bin\Debug\ArraySegmentSample.pdb
+C:\Users\a9596\OneDrive\C#\Wrox\06_Code\Arrays\ArraysSamples\ArraySegmentSample\obj\Debug\ArraySegmentSample.csprojResolveAssemblyReference.cache
+C:\Users\a9596\OneDrive\C#\Wrox\06_Code\Arrays\ArraysSamples\ArraySegmentSample\obj\Debug\ArraySegmentSample.exe
+C:\Users\a9596\OneDrive\C#\Wrox\06_Code\Arrays\ArraysSamples\ArraySegmentSample\obj\Debug\ArraySegmentSample.pdb
